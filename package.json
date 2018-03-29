@@ -1,0 +1,23 @@
+{
+  "name": "reactjs-social-media-card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "babel": "babel app --watch -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siamcr7/ReactJS-Social-Media-Card.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siamcr7/ReactJS-Social-Media-Card/issues"
+  },
+  "homepage": "https://github.com/siamcr7/ReactJS-Social-Media-Card#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
